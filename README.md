@@ -7,6 +7,7 @@ Criar um card de um gerador de citações
 <br>
 <img align="center" alt="Desktop"  width="90%" src="https://i.postimg.cc/Zq9DK9N8/Anima-o.gif">
 <br>
+
 ## 💡 Desafios 
 Esse desafio me fez aprimorar e entender melhor conceitos de Flexbox onde entendi alguns conceitos de posicionamento e forma de se construir um HTML inicial. 
 
